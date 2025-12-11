@@ -1,0 +1,5 @@
+{
+  "name": "Dominion TV",
+  "description": "A mobile-first broadcasting app featuring a live program schedule, news feed, and settings.",
+  "requestFramePermissions": []
+}
